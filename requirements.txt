@@ -10,7 +10,7 @@ importlib-metadata==1.6.1
 nibabel==3.1.0
 numpy==1.18.5
 packaging==20.4
-Pillow==7.1.2
+Pillow==9.0.0
 pyparsing==2.4.7
 pytz==2020.1
 six==1.15.0
